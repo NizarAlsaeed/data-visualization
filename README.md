@@ -1,6 +1,6 @@
 # LAB14: Data Visualization
 
-Author: Nzar Alsaeed
+Author: Nizar Alsaeed
 
 
 version 1.0.0
